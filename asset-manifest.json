@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-okta/static/css/main.e9639a40.chunk.css",
+    "main.js": "/react-okta/static/js/main.a35a1818.chunk.js",
+    "main.js.map": "/react-okta/static/js/main.a35a1818.chunk.js.map",
+    "runtime-main.js": "/react-okta/static/js/runtime-main.2302aba2.js",
+    "runtime-main.js.map": "/react-okta/static/js/runtime-main.2302aba2.js.map",
+    "static/css/2.248ed7b1.chunk.css": "/react-okta/static/css/2.248ed7b1.chunk.css",
+    "static/js/2.5fc40348.chunk.js": "/react-okta/static/js/2.5fc40348.chunk.js",
+    "static/js/2.5fc40348.chunk.js.map": "/react-okta/static/js/2.5fc40348.chunk.js.map",
+    "index.html": "/react-okta/index.html",
+    "precache-manifest.71c94e310d91e7c5387bb4eba1c85d75.js": "/react-okta/precache-manifest.71c94e310d91e7c5387bb4eba1c85d75.js",
+    "service-worker.js": "/react-okta/service-worker.js",
+    "static/css/2.248ed7b1.chunk.css.map": "/react-okta/static/css/2.248ed7b1.chunk.css.map",
+    "static/css/main.e9639a40.chunk.css.map": "/react-okta/static/css/main.e9639a40.chunk.css.map",
+    "static/media/okta-sign-in.min.css": "/react-okta/static/media/yubikeyDemo.f10c9db1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2302aba2.js",
+    "static/css/2.248ed7b1.chunk.css",
+    "static/js/2.5fc40348.chunk.js",
+    "static/css/main.e9639a40.chunk.css",
+    "static/js/main.a35a1818.chunk.js"
+  ]
+}
