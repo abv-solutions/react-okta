@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts --max_old_space_size=460 start",
-    "build": "react-scripts --max_old_space_size=460 pmbuild",
+    "build": "react-scripts --max_old_space_size=460 build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
